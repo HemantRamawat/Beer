@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/Beer/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Beer/static/js/main.d140091e.chunk.js",
-    "main.js.map": "/Beer/static/js/main.d140091e.chunk.js.map",
-    "runtime-main.js": "/Beer/static/js/runtime-main.ea7d27fc.js",
-    "runtime-main.js.map": "/Beer/static/js/runtime-main.ea7d27fc.js.map",
-    "static/js/2.910eb6d6.chunk.js": "/Beer/static/js/2.910eb6d6.chunk.js",
-    "static/js/2.910eb6d6.chunk.js.map": "/Beer/static/js/2.910eb6d6.chunk.js.map",
-    "static/js/3.705cb397.chunk.js": "/Beer/static/js/3.705cb397.chunk.js",
-    "static/js/3.705cb397.chunk.js.map": "/Beer/static/js/3.705cb397.chunk.js.map",
+    "main.css": "/Beer/static/css/main.d0637678.chunk.css",
+    "main.js": "/Beer/static/js/main.08932cab.chunk.js",
+    "main.js.map": "/Beer/static/js/main.08932cab.chunk.js.map",
+    "runtime-main.js": "/Beer/static/js/runtime-main.157feaaa.js",
+    "runtime-main.js.map": "/Beer/static/js/runtime-main.157feaaa.js.map",
+    "static/js/2.acab4dc4.chunk.js": "/Beer/static/js/2.acab4dc4.chunk.js",
+    "static/js/2.acab4dc4.chunk.js.map": "/Beer/static/js/2.acab4dc4.chunk.js.map",
     "index.html": "/Beer/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Beer/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.910eb6d6.chunk.js.LICENSE.txt": "/Beer/static/js/2.910eb6d6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Beer/static/media/logo.6ce24c58.svg"
+    "static/css/main.d0637678.chunk.css.map": "/Beer/static/css/main.d0637678.chunk.css.map",
+    "static/js/2.acab4dc4.chunk.js.LICENSE.txt": "/Beer/static/js/2.acab4dc4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Beer/static/media/2948767.422f7b13.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea7d27fc.js",
-    "static/js/2.910eb6d6.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d140091e.chunk.js"
+    "static/js/runtime-main.157feaaa.js",
+    "static/js/2.acab4dc4.chunk.js",
+    "static/css/main.d0637678.chunk.css",
+    "static/js/main.08932cab.chunk.js"
   ]
 }
