@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/Beer/static/css/main.d0637678.chunk.css",
-    "main.js": "/Beer/static/js/main.08932cab.chunk.js",
-    "main.js.map": "/Beer/static/js/main.08932cab.chunk.js.map",
+    "main.css": "/Beer/static/css/main.8064f6b3.chunk.css",
+    "main.js": "/Beer/static/js/main.169d8317.chunk.js",
+    "main.js.map": "/Beer/static/js/main.169d8317.chunk.js.map",
     "runtime-main.js": "/Beer/static/js/runtime-main.157feaaa.js",
     "runtime-main.js.map": "/Beer/static/js/runtime-main.157feaaa.js.map",
     "static/js/2.acab4dc4.chunk.js": "/Beer/static/js/2.acab4dc4.chunk.js",
     "static/js/2.acab4dc4.chunk.js.map": "/Beer/static/js/2.acab4dc4.chunk.js.map",
     "index.html": "/Beer/index.html",
-    "static/css/main.d0637678.chunk.css.map": "/Beer/static/css/main.d0637678.chunk.css.map",
+    "static/css/main.8064f6b3.chunk.css.map": "/Beer/static/css/main.8064f6b3.chunk.css.map",
     "static/js/2.acab4dc4.chunk.js.LICENSE.txt": "/Beer/static/js/2.acab4dc4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Beer/static/media/2948767.422f7b13.jpg"
+    "static/media/App.css": "/Beer/static/media/2948767.422f7b13.jpg",
+    "static/media/Beer1.9de41563.jpg": "/Beer/static/media/Beer1.9de41563.jpg",
+    "static/media/Beer2.9ff951e9.jpg": "/Beer/static/media/Beer2.9ff951e9.jpg",
+    "static/media/Beer3.337cc1ba.jpg": "/Beer/static/media/Beer3.337cc1ba.jpg",
+    "static/media/Beer4.3efb0d56.jpg": "/Beer/static/media/Beer4.3efb0d56.jpg",
+    "static/media/Beer5.e26c7895.jpg": "/Beer/static/media/Beer5.e26c7895.jpg",
+    "static/media/Beer6.b2d5066b.png": "/Beer/static/media/Beer6.b2d5066b.png",
+    "static/media/Beer7.5c32e162.jpg": "/Beer/static/media/Beer7.5c32e162.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.157feaaa.js",
     "static/js/2.acab4dc4.chunk.js",
-    "static/css/main.d0637678.chunk.css",
-    "static/js/main.08932cab.chunk.js"
+    "static/css/main.8064f6b3.chunk.css",
+    "static/js/main.169d8317.chunk.js"
   ]
 }
